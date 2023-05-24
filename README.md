@@ -2,7 +2,7 @@
 
 ## Who am I? 
 
-* 👩‍💻 Back-end Developer
+* 👩‍💻 Back-end/Full-Stack Developer
 * 👩‍🎓 Bachelor of Computer Engineering - Insper
 
 ## Skills 👩‍💻
