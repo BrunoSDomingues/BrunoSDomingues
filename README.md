@@ -18,7 +18,6 @@
 * Node.js
 * React.js
 * Next.js
-* Machine Learning
 
 ## Find me around the world :earth_americas:
 
